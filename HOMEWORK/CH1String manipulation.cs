@@ -11,6 +11,7 @@ public class Concatenation
         string name = Console.ReadLine();
         Console.WriteLine("Enter your surname");
         string surname = Console.ReadLine();
+
         Console.WriteLine(surname + " " + name);//Associativity is Left to Right
 
     }

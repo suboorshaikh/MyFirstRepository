@@ -1,3 +1,3 @@
 ﻿using HOMEWORK;
 
-InterpolationMethod .FunctionC();
+Placeholdermethod.FunctionB();
