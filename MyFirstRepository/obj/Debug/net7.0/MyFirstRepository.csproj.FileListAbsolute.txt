@@ -1,0 +1,14 @@
+C:\Users\Suboor shaikh\source\repos\MyFirstRepository\MyFirstRepository\bin\Debug\net7.0\MyFirstRepository.exe
+C:\Users\Suboor shaikh\source\repos\MyFirstRepository\MyFirstRepository\bin\Debug\net7.0\MyFirstRepository.deps.json
+C:\Users\Suboor shaikh\source\repos\MyFirstRepository\MyFirstRepository\bin\Debug\net7.0\MyFirstRepository.runtimeconfig.json
+C:\Users\Suboor shaikh\source\repos\MyFirstRepository\MyFirstRepository\bin\Debug\net7.0\MyFirstRepository.dll
+C:\Users\Suboor shaikh\source\repos\MyFirstRepository\MyFirstRepository\bin\Debug\net7.0\MyFirstRepository.pdb
+C:\Users\Suboor shaikh\source\repos\MyFirstRepository\MyFirstRepository\obj\Debug\net7.0\MyFirstRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suboor shaikh\source\repos\MyFirstRepository\MyFirstRepository\obj\Debug\net7.0\MyFirstRepository.AssemblyInfoInputs.cache
+C:\Users\Suboor shaikh\source\repos\MyFirstRepository\MyFirstRepository\obj\Debug\net7.0\MyFirstRepository.AssemblyInfo.cs
+C:\Users\Suboor shaikh\source\repos\MyFirstRepository\MyFirstRepository\obj\Debug\net7.0\MyFirstRepository.csproj.CoreCompileInputs.cache
+C:\Users\Suboor shaikh\source\repos\MyFirstRepository\MyFirstRepository\obj\Debug\net7.0\MyFirstRepository.dll
+C:\Users\Suboor shaikh\source\repos\MyFirstRepository\MyFirstRepository\obj\Debug\net7.0\refint\MyFirstRepository.dll
+C:\Users\Suboor shaikh\source\repos\MyFirstRepository\MyFirstRepository\obj\Debug\net7.0\MyFirstRepository.pdb
+C:\Users\Suboor shaikh\source\repos\MyFirstRepository\MyFirstRepository\obj\Debug\net7.0\MyFirstRepository.genruntimeconfig.cache
+C:\Users\Suboor shaikh\source\repos\MyFirstRepository\MyFirstRepository\obj\Debug\net7.0\ref\MyFirstRepository.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Suboor shaikh\\Source\\Repos\\MyFirstRepository\\MyFirstRepository\\MyFirstRepository.csproj": {}
+    "C:\\Users\\Suboor shaikh\\Source\\Repos\\MyFirstRepository\\HOMEWORK\\HOMEWORK.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Suboor shaikh\\Source\\Repos\\MyFirstRepository\\MyFirstRepository\\MyFirstRepository.csproj": {
+    "C:\\Users\\Suboor shaikh\\Source\\Repos\\MyFirstRepository\\HOMEWORK\\HOMEWORK.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Suboor shaikh\\Source\\Repos\\MyFirstRepository\\MyFirstRepository\\MyFirstRepository.csproj",
-        "projectName": "MyFirstRepository",
-        "projectPath": "C:\\Users\\Suboor shaikh\\Source\\Repos\\MyFirstRepository\\MyFirstRepository\\MyFirstRepository.csproj",
+        "projectUniqueName": "C:\\Users\\Suboor shaikh\\Source\\Repos\\MyFirstRepository\\HOMEWORK\\HOMEWORK.csproj",
+        "projectName": "HOMEWORK",
+        "projectPath": "C:\\Users\\Suboor shaikh\\Source\\Repos\\MyFirstRepository\\HOMEWORK\\HOMEWORK.csproj",
         "packagesPath": "C:\\Users\\Suboor shaikh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\MyFirstRepository\\obj\\",
+        "outputPath": "C:\\Users\\Suboor shaikh\\Source\\Repos\\MyFirstRepository\\HOMEWORK\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Suboor shaikh\\AppData\\Roaming\\NuGet\\NuGet.Config",

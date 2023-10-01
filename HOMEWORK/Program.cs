@@ -1,0 +1,3 @@
+﻿using HOMEWORK;
+
+InterpolationMethod .FunctionC();
