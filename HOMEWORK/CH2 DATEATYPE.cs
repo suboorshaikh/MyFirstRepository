@@ -69,13 +69,44 @@ public class CH2_DATEATYPE
             ///HOMEWORK DONE
             UInt32 ua = 4294967296;
             Int32 a = -2147483648; a = 2147483647;
-            UInt64 b = 18446744073709551616;
-            Int64 b = -9223372036854775808; b = 9223372036854775807
-            UInt128 c = 340282366920938463463374607431768211456
-            Int128 c = -170141183460469231731687303715884105728; c = 170141183460469231731687303715884105727
+            UInt64 ub = 18446744073709551616;
+            Int64 c = -9223372036854775808; c = 9223372036854775807;
+            UInt128 ud = 340282366920938463463374607431768211456;
+            Int128 e = -170141183460469231731687303715884105728; e = 170141183460469231731687303715884105727
             //Homework: write variables with max capacity for following types: int32, int 64, int128
 
         }
+        public static void FloatingDataType()
+        {
+            //We have three data types in this category float, double and decimal
+            //1. float 4bytes
+            float f = 1.1f;//in float a number 1.1 to be appended by f
+                           //2. double 8bytes
+            double d = 1.1d;//in double a number 1.1 may be appended by d
+            double d1 = 1.1;
+            //3. decimal 16bytes
+            decimal m = 1.1m;//in decimal a number 1.1 to be appended by m
+        }
+        public static void CharacterDataType()
+        {
+            //This data type is used to store a character from the list of ASCII characters
+            char c = '1';//here 1 as a char will be saved as decimal 49. Refer chart
+        }
+        public static void BooleanDataType()
+        {
+            //
+            bool b = true;//It will be saved as 1
+            bool b1 = false;//It will be saved as 0
+        }
 
+        public static void ReferencedDataType()
+        {
+            //String data type : Array of Character 
+            // if i want to save a sentence "hello from .net class"
+            string s = "hello from .net class";
+            string greet = "Hello";
+            //there are some more referenced data types other than string
+            //for example Class object, interfaces, etc
+        }
     }
 }
