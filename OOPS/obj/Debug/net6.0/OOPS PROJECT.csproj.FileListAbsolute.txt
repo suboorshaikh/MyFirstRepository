@@ -1,0 +1,14 @@
+C:\Users\Suboor shaikh\Source\Repos\MyFirstRepository\OOPS\bin\Debug\net6.0\OOPS PROJECT.exe
+C:\Users\Suboor shaikh\Source\Repos\MyFirstRepository\OOPS\bin\Debug\net6.0\OOPS PROJECT.deps.json
+C:\Users\Suboor shaikh\Source\Repos\MyFirstRepository\OOPS\bin\Debug\net6.0\OOPS PROJECT.runtimeconfig.json
+C:\Users\Suboor shaikh\Source\Repos\MyFirstRepository\OOPS\bin\Debug\net6.0\OOPS PROJECT.dll
+C:\Users\Suboor shaikh\Source\Repos\MyFirstRepository\OOPS\bin\Debug\net6.0\OOPS PROJECT.pdb
+C:\Users\Suboor shaikh\Source\Repos\MyFirstRepository\OOPS\obj\Debug\net6.0\OOPS PROJECT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suboor shaikh\Source\Repos\MyFirstRepository\OOPS\obj\Debug\net6.0\OOPS PROJECT.AssemblyInfoInputs.cache
+C:\Users\Suboor shaikh\Source\Repos\MyFirstRepository\OOPS\obj\Debug\net6.0\OOPS PROJECT.AssemblyInfo.cs
+C:\Users\Suboor shaikh\Source\Repos\MyFirstRepository\OOPS\obj\Debug\net6.0\OOPS PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\Suboor shaikh\Source\Repos\MyFirstRepository\OOPS\obj\Debug\net6.0\OOPS PROJECT.dll
+C:\Users\Suboor shaikh\Source\Repos\MyFirstRepository\OOPS\obj\Debug\net6.0\refint\OOPS PROJECT.dll
+C:\Users\Suboor shaikh\Source\Repos\MyFirstRepository\OOPS\obj\Debug\net6.0\OOPS PROJECT.pdb
+C:\Users\Suboor shaikh\Source\Repos\MyFirstRepository\OOPS\obj\Debug\net6.0\OOPS PROJECT.genruntimeconfig.cache
+C:\Users\Suboor shaikh\Source\Repos\MyFirstRepository\OOPS\obj\Debug\net6.0\ref\OOPS PROJECT.dll

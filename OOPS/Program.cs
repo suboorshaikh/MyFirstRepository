@@ -1,2 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using OOPS_Project;
+CH05_Methods cH05_Methods = new CH05_Methods();
+cH05_Methods.Test();
