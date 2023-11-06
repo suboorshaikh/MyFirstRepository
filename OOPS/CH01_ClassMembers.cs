@@ -107,9 +107,18 @@ public class Messenger
 }
 public class Calculator
 {
-    public int Num1 { get; set; }
-    public int Num2 { get; set; }
-    public int Result { get; set; }
+    public void Test()
+    {
+        Add();
+        Subtract ();
+        Multiply ();
+        Divide ();  
+        PrintResult ();
+    }
+
+    public int Num1 { get; set; } = 12;
+    public int Num2 { get; set; } = 4;
+    public int Result { get; set; } 
     public void Add()
     {
         Result = Num1 + Num2;
@@ -120,7 +129,7 @@ public class Calculator
     }
     public void Multiply()
     {
-        Result = Num1 * Num2;
+        Result= Num1 * Num2;
     }
     public void Divide()
     {

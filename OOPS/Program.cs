@@ -1,3 +1,4 @@
-﻿using OOPS_Project;
-CH05_Methods cH05_Methods = new CH05_Methods();
-cH05_Methods.Test();
+﻿using OOPProject;
+using OOPS_Project;
+Calculator calculator = new Calculator();
+calculator.Test();
