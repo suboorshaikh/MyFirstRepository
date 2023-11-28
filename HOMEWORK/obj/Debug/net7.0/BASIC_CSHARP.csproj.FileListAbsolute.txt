@@ -1,0 +1,15 @@
+C:\Users\Suboor shaikh\Source\Repos\MyFirstRepository\HOMEWORK\obj\Debug\net7.0\BASIC_CSHARP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suboor shaikh\Source\Repos\MyFirstRepository\HOMEWORK\obj\Debug\net7.0\BASIC_CSHARP.AssemblyInfoInputs.cache
+C:\Users\Suboor shaikh\Source\Repos\MyFirstRepository\HOMEWORK\obj\Debug\net7.0\BASIC_CSHARP.AssemblyInfo.cs
+C:\Users\Suboor shaikh\Source\Repos\MyFirstRepository\HOMEWORK\obj\Debug\net7.0\BASIC_CSHARP.csproj.CoreCompileInputs.cache
+C:\Users\Suboor shaikh\Source\Repos\MyFirstRepository\HOMEWORK\obj\Debug\net7.0\BASIC_CSHARP.sourcelink.json
+C:\Users\Suboor shaikh\Source\Repos\MyFirstRepository\HOMEWORK\bin\Debug\net7.0\BASIC_CSHARP.exe
+C:\Users\Suboor shaikh\Source\Repos\MyFirstRepository\HOMEWORK\bin\Debug\net7.0\BASIC_CSHARP.deps.json
+C:\Users\Suboor shaikh\Source\Repos\MyFirstRepository\HOMEWORK\bin\Debug\net7.0\BASIC_CSHARP.runtimeconfig.json
+C:\Users\Suboor shaikh\Source\Repos\MyFirstRepository\HOMEWORK\bin\Debug\net7.0\BASIC_CSHARP.dll
+C:\Users\Suboor shaikh\Source\Repos\MyFirstRepository\HOMEWORK\bin\Debug\net7.0\BASIC_CSHARP.pdb
+C:\Users\Suboor shaikh\Source\Repos\MyFirstRepository\HOMEWORK\obj\Debug\net7.0\BASIC_CSHARP.dll
+C:\Users\Suboor shaikh\Source\Repos\MyFirstRepository\HOMEWORK\obj\Debug\net7.0\refint\BASIC_CSHARP.dll
+C:\Users\Suboor shaikh\Source\Repos\MyFirstRepository\HOMEWORK\obj\Debug\net7.0\BASIC_CSHARP.pdb
+C:\Users\Suboor shaikh\Source\Repos\MyFirstRepository\HOMEWORK\obj\Debug\net7.0\BASIC_CSHARP.genruntimeconfig.cache
+C:\Users\Suboor shaikh\Source\Repos\MyFirstRepository\HOMEWORK\obj\Debug\net7.0\ref\BASIC_CSHARP.dll

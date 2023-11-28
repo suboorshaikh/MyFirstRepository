@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Suboor shaikh\\Source\\Repos\\MyFirstRepository\\HOMEWORK\\BASIC CSHARP.csproj",
-      "projectName": "BASIC CSHARP",
-      "projectPath": "C:\\Users\\Suboor shaikh\\Source\\Repos\\MyFirstRepository\\HOMEWORK\\BASIC CSHARP.csproj",
+      "projectUniqueName": "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\HOMEWORK\\BASIC_CSHARP.csproj",
+      "projectName": "BASIC_CSHARP",
+      "projectPath": "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\HOMEWORK\\BASIC_CSHARP.csproj",
       "packagesPath": "C:\\Users\\Suboor shaikh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Suboor shaikh\\Source\\Repos\\MyFirstRepository\\HOMEWORK\\obj\\",
+      "outputPath": "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\HOMEWORK\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Suboor shaikh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
