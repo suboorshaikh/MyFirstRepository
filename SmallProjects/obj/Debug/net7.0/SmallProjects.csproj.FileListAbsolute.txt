@@ -1,0 +1,15 @@
+C:\Users\Suboor shaikh\source\repos\MyFirstRepository\SmallProjects\bin\Debug\net7.0\SmallProjects.exe
+C:\Users\Suboor shaikh\source\repos\MyFirstRepository\SmallProjects\bin\Debug\net7.0\SmallProjects.deps.json
+C:\Users\Suboor shaikh\source\repos\MyFirstRepository\SmallProjects\bin\Debug\net7.0\SmallProjects.runtimeconfig.json
+C:\Users\Suboor shaikh\source\repos\MyFirstRepository\SmallProjects\bin\Debug\net7.0\SmallProjects.dll
+C:\Users\Suboor shaikh\source\repos\MyFirstRepository\SmallProjects\bin\Debug\net7.0\SmallProjects.pdb
+C:\Users\Suboor shaikh\source\repos\MyFirstRepository\SmallProjects\obj\Debug\net7.0\SmallProjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suboor shaikh\source\repos\MyFirstRepository\SmallProjects\obj\Debug\net7.0\SmallProjects.AssemblyInfoInputs.cache
+C:\Users\Suboor shaikh\source\repos\MyFirstRepository\SmallProjects\obj\Debug\net7.0\SmallProjects.AssemblyInfo.cs
+C:\Users\Suboor shaikh\source\repos\MyFirstRepository\SmallProjects\obj\Debug\net7.0\SmallProjects.csproj.CoreCompileInputs.cache
+C:\Users\Suboor shaikh\source\repos\MyFirstRepository\SmallProjects\obj\Debug\net7.0\SmallProjects.sourcelink.json
+C:\Users\Suboor shaikh\source\repos\MyFirstRepository\SmallProjects\obj\Debug\net7.0\SmallProjects.dll
+C:\Users\Suboor shaikh\source\repos\MyFirstRepository\SmallProjects\obj\Debug\net7.0\refint\SmallProjects.dll
+C:\Users\Suboor shaikh\source\repos\MyFirstRepository\SmallProjects\obj\Debug\net7.0\SmallProjects.pdb
+C:\Users\Suboor shaikh\source\repos\MyFirstRepository\SmallProjects\obj\Debug\net7.0\SmallProjects.genruntimeconfig.cache
+C:\Users\Suboor shaikh\source\repos\MyFirstRepository\SmallProjects\obj\Debug\net7.0\ref\SmallProjects.dll
