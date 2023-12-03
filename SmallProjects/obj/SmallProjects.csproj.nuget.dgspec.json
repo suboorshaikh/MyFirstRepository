@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\SmallProjects\\SmallProjects.csproj": {}
+    "C:\\Users\\Suboor shaikh\\Source\\Repos\\MyFirstRepository\\SmallProjects\\SmallProjects.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\SmallProjects\\SmallProjects.csproj": {
+    "C:\\Users\\Suboor shaikh\\Source\\Repos\\MyFirstRepository\\SmallProjects\\SmallProjects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\SmallProjects\\SmallProjects.csproj",
+        "projectUniqueName": "C:\\Users\\Suboor shaikh\\Source\\Repos\\MyFirstRepository\\SmallProjects\\SmallProjects.csproj",
         "projectName": "SmallProjects",
-        "projectPath": "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\SmallProjects\\SmallProjects.csproj",
+        "projectPath": "C:\\Users\\Suboor shaikh\\Source\\Repos\\MyFirstRepository\\SmallProjects\\SmallProjects.csproj",
         "packagesPath": "C:\\Users\\Suboor shaikh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\SmallProjects\\obj\\",
+        "outputPath": "C:\\Users\\Suboor shaikh\\Source\\Repos\\MyFirstRepository\\SmallProjects\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Suboor shaikh\\AppData\\Roaming\\NuGet\\NuGet.Config",
