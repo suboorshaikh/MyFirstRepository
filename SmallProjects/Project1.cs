@@ -60,11 +60,12 @@ public class Project1
         bool continueprogram = true;
         while (continueprogram)
         {
+            Console.Clear();
             Console.WriteLine("--ACADEMICS--");
             Console.WriteLine("1. Engineering");
             Console.WriteLine("2. Businesss");
             Console.WriteLine("3. Social Science ");
-            Console.WriteLine("4. Exit");
+            Console.WriteLine("4. GO BACK");
             ConsoleKeyInfo keyInfo = Console.ReadKey();
             char key = keyInfo.KeyChar;
             Console.Clear();
@@ -137,6 +138,7 @@ public class Project1
         bool continueprogram = true;
         while (continueprogram)
         {
+            Console.Clear();
             Console.WriteLine("----CAMPUS FACILITIES---");
             Console.WriteLine("1. Classrooms");
             Console.WriteLine("2. Lecture Hall");
@@ -144,7 +146,7 @@ public class Project1
             Console.WriteLine("4. Libraries");
             Console.WriteLine("5. Study Rooms");
             Console.WriteLine("6. Sports Facilities");
-            Console.WriteLine("7. Exit");
+            Console.WriteLine("7. GO BACK");
             ConsoleKeyInfo keyInfo = Console.ReadKey();
             char key = keyInfo.KeyChar;
             Console.Clear();
@@ -308,13 +310,14 @@ public class Project1
         bool continueprogram = true;
         while (continueprogram)
         {
+            Console.Clear();
             Console.WriteLine("---FACULTY STAFF---");
             Console.WriteLine("1. Professors");
             Console.WriteLine("2. Instructors");
             Console.WriteLine("3. Teaching Assistants");
             Console.WriteLine("4. Administrative");
             Console.WriteLine("5. Support Staff");
-            Console.WriteLine("7. Exit");
+            Console.WriteLine("7. GO BACK");
             ConsoleKeyInfo keyInfo = Console.ReadKey();
             char key = keyInfo.KeyChar;
             Console.Clear();
@@ -349,6 +352,7 @@ public class Project1
     }
     public void Support_Staff()
     {
+        Console.Clear();
         Console.WriteLine("-- SUPPORT & STAFF--");
         Console.WriteLine("1. Administrative Assistants");
         Console.WriteLine("2. Clerical Staff");
@@ -407,12 +411,13 @@ public class Project1
         bool continueprogram = true;
         while (continueprogram)
         {
+            Console.Clear();
             Console.WriteLine("---RESOURCES---");
             Console.WriteLine("1. Textbooks");
             Console.WriteLine("2. Resurch Material");
             Console.WriteLine("3. Career Service");
             Console.WriteLine("4. Counseling");
-            Console.WriteLine("5. Exit");
+            Console.WriteLine("5. GO BACK");
             ConsoleKeyInfo keyInfo = Console.ReadKey();
             char key = keyInfo.KeyChar;
             Console.Clear();
@@ -488,11 +493,12 @@ public class Project1
         bool continueprogram = true;
         while (continueprogram)
         {
+            Console.Clear();
             Console.WriteLine("---TECHNOLOGY---");
             Console.WriteLine("1. Computers");
             Console.WriteLine("2. labs");
             Console.WriteLine("3. Online Learning Platform");
-            Console.WriteLine("4. Exit");
+            Console.WriteLine("4. GO BACK");
             ConsoleKeyInfo keyInfo = Console.ReadKey();
             char key = keyInfo.KeyChar;
             Console.Clear();
@@ -554,10 +560,11 @@ public class Project1
         bool continueprogram = true;
         while (continueprogram)
         {
+            Console.Clear();
             Console.WriteLine("--REGULATION AND POLICIES--");
             Console.WriteLine("1. Academic Policies");
             Console.WriteLine("2. Campus Regulations");
-            Console.WriteLine("3. Exit");
+            Console.WriteLine("3. GO BACK");
             ConsoleKeyInfo keyInfo = Console.ReadKey();
             char key = keyInfo.KeyChar;
             Console.Clear();
