@@ -1,4 +1,6 @@
-﻿namespace OOPProject;
+﻿using static OOPS_Project.CH04_Constructors;
+
+namespace OOPProject;
 /// <summary>
 /// A method can be called by passing a value or a reference.
 /// where a reference is an address of a variable or object.
@@ -48,4 +50,43 @@ public class CH07_CallByReference
     }
 
     //We learnt use of out keyword in parsing/casting chapter CH03_TypeConversion in CSharpBasics
+    public class Student
+    {
+        //PROPERTIES
+        public int Id { get; set; }
+        public string Name { get; set; }
+        public string Address { get; set; }
+    }
+    public void AddStudentDetails(Student std)
+    {
+        std.Id = 10;
+        std.Name = "Adil";
+        std.Address = "Nagpur";
+    }
+    public void CopyStudentData(Student sourceStudent, Student destStudent)
+    {
+        destStudent.Id = sourceStudent.Id;
+        destStudent.Name = sourceStudent.Name;
+        destStudent.Address = sourceStudent.Address;
+    }
+    public void TestRefernceVariable()
+    {
+        Student student = new Student();
+        AddStudentDetails(student);
+        Console.WriteLine($"Student Id is {student.Id}");
+        Console.WriteLine($"Student Name is {student.Name}");
+        Console.WriteLine($"Student Address is {student.Address}");
+    }
+    public void TestReferenceVariable2()
+    {
+        //Task: Copy Student1 data to Student2
+        Student student1 = new Student() { Id = 1, Name = "Irfan", Address = "Nagpur" };
+        Student student2 = new Student();
+        CopyStudentData(student1, student2);
+        Console.WriteLine($"Student Id is {student2.Id}");
+        Console.WriteLine($"Student Name is {student2.Name}");
+        Console.WriteLine($"Student Address is {student2.Address}");
+    }
+    //Task create a method AddDataToStudent and pass Student object, id, name, address to it
+    //add this data to student object
 }

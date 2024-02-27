@@ -17,7 +17,7 @@
       "projectName": "OOPS PROJECT",
       "projectPath": "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\OOPS\\OOPS PROJECT.csproj",
       "packagesPath": "C:\\Users\\Suboor shaikh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Suboor shaikh\\Source\\Repos\\MyFirstRepository\\OOPS\\obj\\",
+      "outputPath": "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\OOPS\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Suboor shaikh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
