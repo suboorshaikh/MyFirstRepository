@@ -11,11 +11,12 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-PRACTISPRO1-f6dd4604-cfe0-4d4f-b39e-0c4e37795b6a")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("PRACTISPRO1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ba25dfda5eba4364707ed83c46ae2bb2e777366")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc46826556bdd45e4945a20e41ae4743920b2125")]
 [assembly: System.Reflection.AssemblyProductAttribute("PRACTISPRO1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PRACTISPRO1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

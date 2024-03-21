@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\HOMEWORK\\BASIC_CSHARP.csproj": {}
+    "C:\\Users\\Suboor shaikh\\Source\\Repos\\MyFirstRepository\\HOMEWORK\\BASIC_CSHARP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\HOMEWORK\\BASIC_CSHARP.csproj": {
+    "C:\\Users\\Suboor shaikh\\Source\\Repos\\MyFirstRepository\\HOMEWORK\\BASIC_CSHARP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\HOMEWORK\\BASIC_CSHARP.csproj",
+        "projectUniqueName": "C:\\Users\\Suboor shaikh\\Source\\Repos\\MyFirstRepository\\HOMEWORK\\BASIC_CSHARP.csproj",
         "projectName": "BASIC_CSHARP",
-        "projectPath": "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\HOMEWORK\\BASIC_CSHARP.csproj",
+        "projectPath": "C:\\Users\\Suboor shaikh\\Source\\Repos\\MyFirstRepository\\HOMEWORK\\BASIC_CSHARP.csproj",
         "packagesPath": "C:\\Users\\Suboor shaikh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\HOMEWORK\\obj\\",
+        "outputPath": "C:\\Users\\Suboor shaikh\\Source\\Repos\\MyFirstRepository\\HOMEWORK\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Suboor shaikh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -34,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -55,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

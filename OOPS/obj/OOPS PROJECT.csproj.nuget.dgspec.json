@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\OOPS\\OOPS PROJECT.csproj": {}
+    "C:\\Users\\Suboor shaikh\\Source\\Repos\\MyFirstRepository\\OOPS\\OOPS PROJECT.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\OOPS\\OOPS PROJECT.csproj": {
+    "C:\\Users\\Suboor shaikh\\Source\\Repos\\MyFirstRepository\\OOPS\\OOPS PROJECT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\OOPS\\OOPS PROJECT.csproj",
+        "projectUniqueName": "C:\\Users\\Suboor shaikh\\Source\\Repos\\MyFirstRepository\\OOPS\\OOPS PROJECT.csproj",
         "projectName": "OOPS PROJECT",
-        "projectPath": "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\OOPS\\OOPS PROJECT.csproj",
+        "projectPath": "C:\\Users\\Suboor shaikh\\Source\\Repos\\MyFirstRepository\\OOPS\\OOPS PROJECT.csproj",
         "packagesPath": "C:\\Users\\Suboor shaikh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\OOPS\\obj\\",
+        "outputPath": "C:\\Users\\Suboor shaikh\\Source\\Repos\\MyFirstRepository\\OOPS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Suboor shaikh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -34,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -55,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

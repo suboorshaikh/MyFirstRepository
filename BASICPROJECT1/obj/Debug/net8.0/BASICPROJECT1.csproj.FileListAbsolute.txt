@@ -1,0 +1,15 @@
+C:\Users\Suboor shaikh\Source\Repos\MyFirstRepository\BASICPROJECT1\bin\Debug\net8.0\BASICPROJECT1.exe
+C:\Users\Suboor shaikh\Source\Repos\MyFirstRepository\BASICPROJECT1\bin\Debug\net8.0\BASICPROJECT1.deps.json
+C:\Users\Suboor shaikh\Source\Repos\MyFirstRepository\BASICPROJECT1\bin\Debug\net8.0\BASICPROJECT1.runtimeconfig.json
+C:\Users\Suboor shaikh\Source\Repos\MyFirstRepository\BASICPROJECT1\bin\Debug\net8.0\BASICPROJECT1.dll
+C:\Users\Suboor shaikh\Source\Repos\MyFirstRepository\BASICPROJECT1\bin\Debug\net8.0\BASICPROJECT1.pdb
+C:\Users\Suboor shaikh\Source\Repos\MyFirstRepository\BASICPROJECT1\obj\Debug\net8.0\BASICPROJECT1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suboor shaikh\Source\Repos\MyFirstRepository\BASICPROJECT1\obj\Debug\net8.0\BASICPROJECT1.AssemblyInfoInputs.cache
+C:\Users\Suboor shaikh\Source\Repos\MyFirstRepository\BASICPROJECT1\obj\Debug\net8.0\BASICPROJECT1.AssemblyInfo.cs
+C:\Users\Suboor shaikh\Source\Repos\MyFirstRepository\BASICPROJECT1\obj\Debug\net8.0\BASICPROJECT1.csproj.CoreCompileInputs.cache
+C:\Users\Suboor shaikh\Source\Repos\MyFirstRepository\BASICPROJECT1\obj\Debug\net8.0\BASICPROJECT1.sourcelink.json
+C:\Users\Suboor shaikh\Source\Repos\MyFirstRepository\BASICPROJECT1\obj\Debug\net8.0\BASICPROJECT1.dll
+C:\Users\Suboor shaikh\Source\Repos\MyFirstRepository\BASICPROJECT1\obj\Debug\net8.0\refint\BASICPROJECT1.dll
+C:\Users\Suboor shaikh\Source\Repos\MyFirstRepository\BASICPROJECT1\obj\Debug\net8.0\BASICPROJECT1.pdb
+C:\Users\Suboor shaikh\Source\Repos\MyFirstRepository\BASICPROJECT1\obj\Debug\net8.0\BASICPROJECT1.genruntimeconfig.cache
+C:\Users\Suboor shaikh\Source\Repos\MyFirstRepository\BASICPROJECT1\obj\Debug\net8.0\ref\BASICPROJECT1.dll
