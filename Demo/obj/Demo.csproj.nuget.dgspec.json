@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Suboor shaikh\\Source\\Repos\\MyFirstRepository\\Demo\\Demo.csproj": {}
+    "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\Demo\\Demo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Suboor shaikh\\Source\\Repos\\MyFirstRepository\\Demo\\Demo.csproj": {
+    "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\Demo\\Demo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Suboor shaikh\\Source\\Repos\\MyFirstRepository\\Demo\\Demo.csproj",
+        "projectUniqueName": "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\Demo\\Demo.csproj",
         "projectName": "Demo",
-        "projectPath": "C:\\Users\\Suboor shaikh\\Source\\Repos\\MyFirstRepository\\Demo\\Demo.csproj",
+        "projectPath": "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\Demo\\Demo.csproj",
         "packagesPath": "C:\\Users\\Suboor shaikh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Suboor shaikh\\Source\\Repos\\MyFirstRepository\\Demo\\obj\\",
+        "outputPath": "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\Demo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Suboor shaikh\\AppData\\Roaming\\NuGet\\NuGet.Config",

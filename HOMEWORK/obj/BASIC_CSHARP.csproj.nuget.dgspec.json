@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Suboor shaikh\\Source\\Repos\\MyFirstRepository\\HOMEWORK\\BASIC_CSHARP.csproj": {}
+    "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\HOMEWORK\\BASIC_CSHARP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Suboor shaikh\\Source\\Repos\\MyFirstRepository\\HOMEWORK\\BASIC_CSHARP.csproj": {
+    "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\HOMEWORK\\BASIC_CSHARP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Suboor shaikh\\Source\\Repos\\MyFirstRepository\\HOMEWORK\\BASIC_CSHARP.csproj",
+        "projectUniqueName": "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\HOMEWORK\\BASIC_CSHARP.csproj",
         "projectName": "BASIC_CSHARP",
-        "projectPath": "C:\\Users\\Suboor shaikh\\Source\\Repos\\MyFirstRepository\\HOMEWORK\\BASIC_CSHARP.csproj",
+        "projectPath": "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\HOMEWORK\\BASIC_CSHARP.csproj",
         "packagesPath": "C:\\Users\\Suboor shaikh\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Suboor shaikh\\Source\\Repos\\MyFirstRepository\\HOMEWORK\\obj\\",
         "projectStyle": "PackageReference",

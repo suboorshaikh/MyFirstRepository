@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IkH2k0cnXXUDITmuacF6G2Tt7mhUrul4YRiMeagmK4quynFoDxQUHxO8LXnqPE0BqJGh7OLsQ1dkhbaYf2joDA==",
+  "dgSpecHash": "c8Af6uavY98v10DvoVTmY/Zx2mIJhGMqHpHEdi4scsGsD50h6Mit5OwR7OGpp2Lqp19qh9tC+COsGgd0MHO70w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Suboor shaikh\\Source\\Repos\\MyFirstRepository\\PRACTISPRO1\\PRACTISPRO1.csproj",
+  "projectFilePath": "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\PRACTISPRO1\\PRACTISPRO1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Suboor shaikh\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Suboor shaikh\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
