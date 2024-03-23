@@ -6,35 +6,35 @@ namespace MVCDBProject.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
-
-        public HomeController(ILogger<HomeController> logger)
-        {
-            _logger = logger;
-        }
+        
 
         public IActionResult Index()
         {
-            ViewBag.Var1 = "msg from view bag";
+            var date=  DateTime.Now;
+            ViewBag.Var1 = date ;
             ViewData["Var2"] = "msg from view data";
             TempData["Var3"] = "msg from temp data";
-            string[] games = { "cricket", };
-            return View();
+             return View();
         }
 
         public IActionResult Privacy()
         {
-            ViewBag.Var1 = "msg from view bag";
             ViewData["Var2"] = "msg from view data";
-            TempData["Var3"] = "msg from temp data";
+            if (TempData["Var3"] != null) 
+            {
+                TempData["Var3"].ToString();
+            }
+            TempData.Keep();
             return View();
         }
         public IActionResult Contact()
         {
-            ViewBag.Var1 = "msg from view bag";
-            ViewData["Var2"] = "msg from view data";
-            TempData["Var3"] = "msg from temp data";
+            if (TempData["Var3"] != null)
+            {
+                TempData["Var3"].ToString();
+            }
             return View();
-        }     
+        }
+           
     }
 }
