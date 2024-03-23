@@ -3,40 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D0723327-DF79-4F21-AD23-6CF0057682FA}|Demo\\Demo.csproj|c:\\users\\suboor shaikh\\source\\repos\\myfirstrepository\\demo\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D0723327-DF79-4F21-AD23-6CF0057682FA}|Demo\\Demo.csproj|solutionrelative:demo\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B25FF98D-1C94-4E9B-955B-4B204C41683B}|MVCDBProject\\MVCDBProject.csproj|c:\\users\\suboor shaikh\\source\\repos\\myfirstrepository\\mvcdbproject\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B25FF98D-1C94-4E9B-955B-4B204C41683B}|MVCDBProject\\MVCDBProject.csproj|solutionrelative:mvcdbproject\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0723327-DF79-4F21-AD23-6CF0057682FA}|Demo\\Demo.csproj|c:\\users\\suboor shaikh\\source\\repos\\myfirstrepository\\demo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D0723327-DF79-4F21-AD23-6CF0057682FA}|Demo\\Demo.csproj|solutionrelative:demo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B25FF98D-1C94-4E9B-955B-4B204C41683B}|MVCDBProject\\MVCDBProject.csproj|c:\\users\\suboor shaikh\\source\\repos\\myfirstrepository\\mvcdbproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B25FF98D-1C94-4E9B-955B-4B204C41683B}|MVCDBProject\\MVCDBProject.csproj|solutionrelative:mvcdbproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0723327-DF79-4F21-AD23-6CF0057682FA}|Demo\\Demo.csproj|c:\\users\\suboor shaikh\\source\\repos\\myfirstrepository\\demo\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D0723327-DF79-4F21-AD23-6CF0057682FA}|Demo\\Demo.csproj|solutionrelative:demo\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B25FF98D-1C94-4E9B-955B-4B204C41683B}|MVCDBProject\\MVCDBProject.csproj|c:\\users\\suboor shaikh\\source\\repos\\myfirstrepository\\mvcdbproject\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B25FF98D-1C94-4E9B-955B-4B204C41683B}|MVCDBProject\\MVCDBProject.csproj|solutionrelative:mvcdbproject\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0723327-DF79-4F21-AD23-6CF0057682FA}|Demo\\Demo.csproj|c:\\users\\suboor shaikh\\source\\repos\\myfirstrepository\\demo\\wwwroot\\lib\\jquery\\dist\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{D0723327-DF79-4F21-AD23-6CF0057682FA}|Demo\\Demo.csproj|solutionrelative:demo\\wwwroot\\lib\\jquery\\dist\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{B25FF98D-1C94-4E9B-955B-4B204C41683B}|MVCDBProject\\MVCDBProject.csproj|c:\\users\\suboor shaikh\\source\\repos\\myfirstrepository\\mvcdbproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B25FF98D-1C94-4E9B-955B-4B204C41683B}|MVCDBProject\\MVCDBProject.csproj|solutionrelative:mvcdbproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0723327-DF79-4F21-AD23-6CF0057682FA}|Demo\\Demo.csproj|c:\\users\\suboor shaikh\\source\\repos\\myfirstrepository\\demo\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D0723327-DF79-4F21-AD23-6CF0057682FA}|Demo\\Demo.csproj|solutionrelative:demo\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0723327-DF79-4F21-AD23-6CF0057682FA}|Demo\\Demo.csproj|c:\\users\\suboor shaikh\\source\\repos\\myfirstrepository\\demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{D0723327-DF79-4F21-AD23-6CF0057682FA}|Demo\\Demo.csproj|solutionrelative:demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0723327-DF79-4F21-AD23-6CF0057682FA}|Demo\\Demo.csproj|c:\\users\\suboor shaikh\\source\\repos\\myfirstrepository\\demo\\views\\home\\oursection.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D0723327-DF79-4F21-AD23-6CF0057682FA}|Demo\\Demo.csproj|solutionrelative:demo\\views\\home\\oursection.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0723327-DF79-4F21-AD23-6CF0057682FA}|Demo\\Demo.csproj|c:\\users\\suboor shaikh\\source\\repos\\myfirstrepository\\demo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0723327-DF79-4F21-AD23-6CF0057682FA}|Demo\\Demo.csproj|solutionrelative:demo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0723327-DF79-4F21-AD23-6CF0057682FA}|Demo\\Demo.csproj|c:\\users\\suboor shaikh\\source\\repos\\myfirstrepository\\demo\\views\\home\\menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D0723327-DF79-4F21-AD23-6CF0057682FA}|Demo\\Demo.csproj|solutionrelative:demo\\views\\home\\menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B25FF98D-1C94-4E9B-955B-4B204C41683B}|MVCDBProject\\MVCDBProject.csproj|c:\\users\\suboor shaikh\\source\\repos\\myfirstrepository\\mvcdbproject\\mvcdbproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B25FF98D-1C94-4E9B-955B-4B204C41683B}|MVCDBProject\\MVCDBProject.csproj|solutionrelative:mvcdbproject\\mvcdbproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,35 +30,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Contact.cshtml",
-              "DocumentMoniker": "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\Demo\\Views\\Home\\Contact.cshtml",
-              "RelativeDocumentMoniker": "Demo\\Views\\Home\\Contact.cshtml",
-              "ToolTip": "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\Demo\\Views\\Home\\Contact.cshtml",
-              "RelativeToolTip": "Demo\\Views\\Home\\Contact.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-21T05:31:08.645Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AboutUs.cshtml",
-              "DocumentMoniker": "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\Demo\\Views\\Home\\AboutUs.cshtml",
-              "RelativeDocumentMoniker": "Demo\\Views\\Home\\AboutUs.cshtml",
-              "ToolTip": "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\Demo\\Views\\Home\\AboutUs.cshtml",
-              "RelativeToolTip": "Demo\\Views\\Home\\AboutUs.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-21T05:30:42.034Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -93,88 +50,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "jquery.js",
-              "DocumentMoniker": "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\Demo\\wwwroot\\lib\\jquery\\dist\\jquery.js",
-              "RelativeDocumentMoniker": "Demo\\wwwroot\\lib\\jquery\\dist\\jquery.js",
-              "ToolTip": "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\Demo\\wwwroot\\lib\\jquery\\dist\\jquery.js",
-              "RelativeToolTip": "Demo\\wwwroot\\lib\\jquery\\dist\\jquery.js",
-              "ViewState": "AQIAABoAAAAAAAAAAAAAwAoAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-03-21T05:48:37.314Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\Demo\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "Demo\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\Demo\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "Demo\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "DocumentMoniker": "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\MVCDBProject\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "MVCDBProject\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\MVCDBProject\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "MVCDBProject\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-21T05:42:12.48Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\Demo\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Demo\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\Demo\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Demo\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAkwC0AAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-21T04:42:35.36Z",
+              "WhenOpened": "2024-03-23T05:59:07.148Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "bootstrap.css",
-              "DocumentMoniker": "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-              "RelativeDocumentMoniker": "Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-              "ToolTip": "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-              "RelativeToolTip": "Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-              "ViewState": "AQIAAOUPAAAAAAAAAAAEwOUPAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-03-21T05:52:28.91Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "OurSection.cshtml",
-              "DocumentMoniker": "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\Demo\\Views\\Home\\OurSection.cshtml",
-              "RelativeDocumentMoniker": "Demo\\Views\\Home\\OurSection.cshtml",
-              "ToolTip": "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\Demo\\Views\\Home\\OurSection.cshtml",
-              "RelativeToolTip": "Demo\\Views\\Home\\OurSection.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\MVCDBProject\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "MVCDBProject\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\MVCDBProject\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "MVCDBProject\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-21T05:30:09.217Z"
+              "WhenOpened": "2024-03-23T05:56:35.601Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\MVCDBProject\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCDBProject\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\MVCDBProject\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVCDBProject\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-23T03:56:39.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\Demo\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Demo\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\Demo\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Demo\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAkwCQAAAAhAAAA",
+              "DocumentMoniker": "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\MVCDBProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVCDBProject\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\MVCDBProject\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVCDBProject\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T05:19:20.038Z"
+              "WhenOpened": "2024-03-23T03:54:53.475Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Menu.cshtml",
-              "DocumentMoniker": "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\Demo\\Views\\Home\\Menu.cshtml",
-              "RelativeDocumentMoniker": "Demo\\Views\\Home\\Menu.cshtml",
-              "ToolTip": "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\Demo\\Views\\Home\\Menu.cshtml",
-              "RelativeToolTip": "Demo\\Views\\Home\\Menu.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-21T05:31:40.726Z"
+              "DocumentIndex": 4,
+              "Title": "MVCDBProject.csproj",
+              "DocumentMoniker": "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\MVCDBProject\\MVCDBProject.csproj",
+              "RelativeDocumentMoniker": "MVCDBProject\\MVCDBProject.csproj",
+              "ToolTip": "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\MVCDBProject\\MVCDBProject.csproj",
+              "RelativeToolTip": "MVCDBProject\\MVCDBProject.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-23T03:01:48.429Z"
             }
           ]
         }
