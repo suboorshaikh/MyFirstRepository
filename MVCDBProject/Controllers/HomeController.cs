@@ -14,6 +14,7 @@ namespace MVCDBProject.Controllers
             ViewBag.Var1 = date ;
             ViewData["Var2"] = "msg from view data";
             TempData["Var3"] = "msg from temp data";
+           
              return View();
         }
 
@@ -33,6 +34,10 @@ namespace MVCDBProject.Controllers
             {
                 TempData["Var3"].ToString();
             }
+            return View();
+        }
+        public IActionResult Block()
+        {
             return View();
         }
            
