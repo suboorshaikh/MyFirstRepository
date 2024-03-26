@@ -19,7 +19,8 @@ namespace MVCDBProject
             builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
                 .AddEntityFrameworkStores<ApplicationDbContext>();
             builder.Services.AddControllersWithViews();
-
+            
+            builder.Services.AddSession();//for creating session to add this
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
@@ -34,6 +35,9 @@ namespace MVCDBProject
                 app.UseHsts();
             }
 
+
+            app.UseSession();//to apply session
+            
             app.UseHttpsRedirection();
             app.UseStaticFiles();
 

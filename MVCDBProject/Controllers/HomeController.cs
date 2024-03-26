@@ -6,7 +6,7 @@ namespace MVCDBProject.Controllers
 {
     public class HomeController : Controller
     {
-        
+        public string ViewDataVar2 { get; private set; }
 
         public IActionResult Index()
         {
@@ -14,7 +14,7 @@ namespace MVCDBProject.Controllers
             ViewBag.Var1 = date ;
             ViewData["Var2"] = "msg from view data";
             TempData["Var3"] = "msg from temp data";
-           
+                
              return View();
         }
 
