@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\Demo1\\Demo1.csproj": {}
+    "C:\\Users\\Suboor shaikh\\Source\\Repos\\MyFirstRepository\\Demo1\\Demo1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\Demo1\\Demo1.csproj": {
+    "C:\\Users\\Suboor shaikh\\Source\\Repos\\MyFirstRepository\\Demo1\\Demo1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\Demo1\\Demo1.csproj",
+        "projectUniqueName": "C:\\Users\\Suboor shaikh\\Source\\Repos\\MyFirstRepository\\Demo1\\Demo1.csproj",
         "projectName": "Demo1",
-        "projectPath": "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\Demo1\\Demo1.csproj",
+        "projectPath": "C:\\Users\\Suboor shaikh\\Source\\Repos\\MyFirstRepository\\Demo1\\Demo1.csproj",
         "packagesPath": "C:\\Users\\Suboor shaikh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\Demo1\\obj\\",
+        "outputPath": "C:\\Users\\Suboor shaikh\\Source\\Repos\\MyFirstRepository\\Demo1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Suboor shaikh\\AppData\\Roaming\\NuGet\\NuGet.Config",

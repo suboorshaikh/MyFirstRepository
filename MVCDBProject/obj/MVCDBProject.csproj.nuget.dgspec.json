@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\MVCDBProject\\MVCDBProject.csproj": {}
+    "C:\\Users\\Suboor shaikh\\Source\\Repos\\MyFirstRepository\\MVCDBProject\\MVCDBProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\MVCDBProject\\MVCDBProject.csproj": {
+    "C:\\Users\\Suboor shaikh\\Source\\Repos\\MyFirstRepository\\MVCDBProject\\MVCDBProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\MVCDBProject\\MVCDBProject.csproj",
+        "projectUniqueName": "C:\\Users\\Suboor shaikh\\Source\\Repos\\MyFirstRepository\\MVCDBProject\\MVCDBProject.csproj",
         "projectName": "MVCDBProject",
-        "projectPath": "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\MVCDBProject\\MVCDBProject.csproj",
+        "projectPath": "C:\\Users\\Suboor shaikh\\Source\\Repos\\MyFirstRepository\\MVCDBProject\\MVCDBProject.csproj",
         "packagesPath": "C:\\Users\\Suboor shaikh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\MVCDBProject\\obj\\",
+        "outputPath": "C:\\Users\\Suboor shaikh\\Source\\Repos\\MyFirstRepository\\MVCDBProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Suboor shaikh\\AppData\\Roaming\\NuGet\\NuGet.Config",
