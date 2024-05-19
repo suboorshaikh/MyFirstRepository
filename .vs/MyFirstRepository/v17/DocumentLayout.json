@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\",
+  "WorkspaceRootPath": "D:\\Users\\Source\\Repos\\MyFirstRepository\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{64F6EB4B-D46B-4E37-9856-36D3132FC006}|BASICPROJECT1\\BASICPROJECT1.csproj|c:\\users\\suboor shaikh\\source\\repos\\myfirstrepository\\basicproject1\\pp1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64F6EB4B-D46B-4E37-9856-36D3132FC006}|BASICPROJECT1\\BASICPROJECT1.csproj|solutionrelative:basicproject1\\pp1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Users\\Source\\Repos\\MyFirstRepository\\BASICPROJECT1\\PP1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BASICPROJECT1\\PP1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64F6EB4B-D46B-4E37-9856-36D3132FC006}|BASICPROJECT1\\BASICPROJECT1.csproj|c:\\users\\suboor shaikh\\source\\repos\\myfirstrepository\\basicproject1\\ifnelse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64F6EB4B-D46B-4E37-9856-36D3132FC006}|BASICPROJECT1\\BASICPROJECT1.csproj|solutionrelative:basicproject1\\ifnelse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Users\\Source\\Repos\\MyFirstRepository\\BASICPROJECT1\\IFNELSE.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BASICPROJECT1\\IFNELSE.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64F6EB4B-D46B-4E37-9856-36D3132FC006}|BASICPROJECT1\\BASICPROJECT1.csproj|c:\\users\\suboor shaikh\\source\\repos\\myfirstrepository\\basicproject1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64F6EB4B-D46B-4E37-9856-36D3132FC006}|BASICPROJECT1\\BASICPROJECT1.csproj|solutionrelative:basicproject1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Users\\Source\\Repos\\MyFirstRepository\\BASICPROJECT1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BASICPROJECT1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,10 +26,6 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
@@ -41,12 +37,16 @@
               "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "IFNELSE.cs",
-              "DocumentMoniker": "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\BASICPROJECT1\\IFNELSE.cs",
+              "DocumentMoniker": "D:\\Users\\Source\\Repos\\MyFirstRepository\\BASICPROJECT1\\IFNELSE.cs",
               "RelativeDocumentMoniker": "BASICPROJECT1\\IFNELSE.cs",
-              "ToolTip": "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\BASICPROJECT1\\IFNELSE.cs",
+              "ToolTip": "D:\\Users\\Source\\Repos\\MyFirstRepository\\BASICPROJECT1\\IFNELSE.cs",
               "RelativeToolTip": "BASICPROJECT1\\IFNELSE.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -56,9 +56,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "PP1.cs",
-              "DocumentMoniker": "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\BASICPROJECT1\\PP1.cs",
+              "DocumentMoniker": "D:\\Users\\Source\\Repos\\MyFirstRepository\\BASICPROJECT1\\PP1.cs",
               "RelativeDocumentMoniker": "BASICPROJECT1\\PP1.cs",
-              "ToolTip": "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\BASICPROJECT1\\PP1.cs",
+              "ToolTip": "D:\\Users\\Source\\Repos\\MyFirstRepository\\BASICPROJECT1\\PP1.cs",
               "RelativeToolTip": "BASICPROJECT1\\PP1.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -69,9 +69,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\BASICPROJECT1\\Program.cs",
+              "DocumentMoniker": "D:\\Users\\Source\\Repos\\MyFirstRepository\\BASICPROJECT1\\Program.cs",
               "RelativeDocumentMoniker": "BASICPROJECT1\\Program.cs",
-              "ToolTip": "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\BASICPROJECT1\\Program.cs",
+              "ToolTip": "D:\\Users\\Source\\Repos\\MyFirstRepository\\BASICPROJECT1\\Program.cs",
               "RelativeToolTip": "BASICPROJECT1\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

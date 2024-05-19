@@ -4557,11 +4557,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\MVCDBProject\\MVCDBProject.csproj",
+      "projectUniqueName": "D:\\Users\\Source\\Repos\\MyFirstRepository\\MVCDBProject\\MVCDBProject.csproj",
       "projectName": "MVCDBProject",
-      "projectPath": "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\MVCDBProject\\MVCDBProject.csproj",
+      "projectPath": "D:\\Users\\Source\\Repos\\MyFirstRepository\\MVCDBProject\\MVCDBProject.csproj",
       "packagesPath": "C:\\Users\\Suboor shaikh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\MVCDBProject\\obj\\",
+      "outputPath": "D:\\Users\\Source\\Repos\\MyFirstRepository\\MVCDBProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Suboor shaikh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4635,7 +4635,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

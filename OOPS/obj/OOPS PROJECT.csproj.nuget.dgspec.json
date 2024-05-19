@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Suboor shaikh\\Source\\Repos\\MyFirstRepository\\OOPS\\OOPS PROJECT.csproj": {}
+    "D:\\Users\\Source\\Repos\\MyFirstRepository\\OOPS\\OOPS PROJECT.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Suboor shaikh\\Source\\Repos\\MyFirstRepository\\OOPS\\OOPS PROJECT.csproj": {
+    "D:\\Users\\Source\\Repos\\MyFirstRepository\\OOPS\\OOPS PROJECT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Suboor shaikh\\Source\\Repos\\MyFirstRepository\\OOPS\\OOPS PROJECT.csproj",
+        "projectUniqueName": "D:\\Users\\Source\\Repos\\MyFirstRepository\\OOPS\\OOPS PROJECT.csproj",
         "projectName": "OOPS PROJECT",
-        "projectPath": "C:\\Users\\Suboor shaikh\\Source\\Repos\\MyFirstRepository\\OOPS\\OOPS PROJECT.csproj",
+        "projectPath": "D:\\Users\\Source\\Repos\\MyFirstRepository\\OOPS\\OOPS PROJECT.csproj",
         "packagesPath": "C:\\Users\\Suboor shaikh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Suboor shaikh\\Source\\Repos\\MyFirstRepository\\OOPS\\obj\\",
+        "outputPath": "D:\\Users\\Source\\Repos\\MyFirstRepository\\OOPS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Suboor shaikh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
         }
       }
     }

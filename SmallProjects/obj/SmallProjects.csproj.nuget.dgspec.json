@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Suboor shaikh\\Source\\Repos\\MyFirstRepository\\SmallProjects\\SmallProjects.csproj": {}
+    "D:\\Users\\Source\\Repos\\MyFirstRepository\\SmallProjects\\SmallProjects.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Suboor shaikh\\Source\\Repos\\MyFirstRepository\\SmallProjects\\SmallProjects.csproj": {
+    "D:\\Users\\Source\\Repos\\MyFirstRepository\\SmallProjects\\SmallProjects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Suboor shaikh\\Source\\Repos\\MyFirstRepository\\SmallProjects\\SmallProjects.csproj",
+        "projectUniqueName": "D:\\Users\\Source\\Repos\\MyFirstRepository\\SmallProjects\\SmallProjects.csproj",
         "projectName": "SmallProjects",
-        "projectPath": "C:\\Users\\Suboor shaikh\\Source\\Repos\\MyFirstRepository\\SmallProjects\\SmallProjects.csproj",
+        "projectPath": "D:\\Users\\Source\\Repos\\MyFirstRepository\\SmallProjects\\SmallProjects.csproj",
         "packagesPath": "C:\\Users\\Suboor shaikh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Suboor shaikh\\Source\\Repos\\MyFirstRepository\\SmallProjects\\obj\\",
+        "outputPath": "D:\\Users\\Source\\Repos\\MyFirstRepository\\SmallProjects\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Suboor shaikh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
         }
       }
     }

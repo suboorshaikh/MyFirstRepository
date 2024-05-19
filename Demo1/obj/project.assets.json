@@ -5695,11 +5695,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\Demo1\\Demo1.csproj",
+      "projectUniqueName": "D:\\Users\\Source\\Repos\\MyFirstRepository\\Demo1\\Demo1.csproj",
       "projectName": "Demo1",
-      "projectPath": "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\Demo1\\Demo1.csproj",
+      "projectPath": "D:\\Users\\Source\\Repos\\MyFirstRepository\\Demo1\\Demo1.csproj",
       "packagesPath": "C:\\Users\\Suboor shaikh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Suboor shaikh\\source\\repos\\MyFirstRepository\\Demo1\\obj\\",
+      "outputPath": "D:\\Users\\Source\\Repos\\MyFirstRepository\\Demo1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Suboor shaikh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5757,7 +5757,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
